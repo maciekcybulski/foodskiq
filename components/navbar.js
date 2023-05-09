@@ -13,34 +13,31 @@ import { myLoader } from "@/utils/all";
 export default function Navbar(props) {
   const leftmenu = [
     {
-      label: "Home",
-      href: "/"
+      label: "Audyty",
+      href: "/audyty"
     },
     {
-      label: "About",
-      href: "/about"
+      label: "Szkolenia",
+      href: "/szkolenia"
     },
     {
-      label: "Contact",
-      href: "/contact"
+      label: "Konsultacje",
+      href: "/konsultacje"
     }
   ];
 
   const rightmenu = [
     {
-      label: "Archive",
+      label: "Blog",
       href: "/archive"
     },
     {
-      label: "Pro Version",
-      href: "https://stablo-pro.web3templates.com/",
-      external: true,
-      badge: "new"
+      label: "O nas",
+      href: "/o-nas",
     },
     {
-      label: "Download",
-      href: "https://web3templates.com/templates/stablo-minimal-blog-website-template",
-      external: true
+      label: "Kontakt",
+      href: "/contact",
     }
   ];
 

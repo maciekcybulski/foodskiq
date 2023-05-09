@@ -64,11 +64,11 @@ export default function Post({ posts: initialposts }) {
     <>
       <Container>
         <h1 className="text-center text-3xl font-semibold tracking-tight dark:text-white lg:text-4xl lg:leading-snug">
-          Archive
+          Witaj na blogu
         </h1>
         <div className="text-center">
           <p className="mt-2 text-lg">
-            See all posts we have ever written.
+            Dowiedz się więcej o bezpiecznej produkcji żywności
           </p>
         </div>
         {posts && posts?.length === 0 && (
@@ -107,13 +107,13 @@ export default function Post({ posts: initialposts }) {
                 className="h-3 w-3"
                 aria-hidden="true"
               />
-              <span>Previous</span>
+              <span>Poprzednia</span>
             </button>
             <button
               onClick={handleNextPage}
               disabled={isLastPage}
               className="relative inline-flex items-center gap-1 rounded-r-md border border-gray-300 bg-white px-3 py-2 pl-4 text-sm font-medium text-gray-500 hover:bg-gray-50 focus:z-20 disabled:pointer-events-none disabled:opacity-40 dark:border-gray-500 dark:bg-gray-800 dark:text-gray-300">
-              <span>Next</span>
+              <span>Następna</span>
               <ChevronRightIcon
                 className="h-3 w-3"
                 aria-hidden="true"

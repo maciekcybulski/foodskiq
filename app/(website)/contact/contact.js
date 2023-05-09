@@ -46,20 +46,19 @@ export default function Contact({ settings }) {
   return (
     <Container>
       <h1 className="mt-2 mb-3 text-3xl font-semibold tracking-tight text-center lg:leading-snug text-brand-primary lg:text-4xl dark:text-white">
-        Contact
+        Porozmawiajmy
       </h1>
       <div className="text-center">
-        <p className="text-lg">We are a here to help.</p>
+        <p className="text-lg">Posiadamy 20 lat doświadczenia w branży.</p>
       </div>
 
       <div className="grid my-10 md:grid-cols-2">
         <div className="my-10">
           <h2 className="text-2xl font-semibold dark:text-white">
-            Contact Stablo
+            Kontakt z Food SQ 
           </h2>
           <p className="max-w-sm mt-5">
-            Have something to say? We are here to help. Fill up the
-            form or send email or call phone.
+            Zaprzraszamy do kontaktu z nami. Odpowiemy na wszystkie pytania.
           </p>
 
           <div className="mt-5">
@@ -95,7 +94,7 @@ export default function Contact({ settings }) {
             <div className="mb-5">
               <input
                 type="text"
-                placeholder="Full Name"
+                placeholder="Imię"
                 autoComplete="false"
                 className={`w-full px-4 py-3 border-2 placeholder:text-gray-800 dark:text-white rounded-md outline-none dark:placeholder:text-gray-200 dark:bg-gray-900   focus:ring-4  ${
                   errors.name
@@ -121,7 +120,7 @@ export default function Contact({ settings }) {
               <input
                 id="email_address"
                 type="email"
-                placeholder="Email Address"
+                placeholder="E-mail"
                 name="email"
                 autoComplete="false"
                 className={`w-full px-4 py-3 border-2 placeholder:text-gray-800 dark:text-white rounded-md outline-none dark:placeholder:text-gray-200 dark:bg-gray-900   focus:ring-4  ${
@@ -147,7 +146,7 @@ export default function Contact({ settings }) {
             <div className="mb-3">
               <textarea
                 name="message"
-                placeholder="Your Message"
+                placeholder="Wiadomość"
                 className={`w-full px-4 py-3 border-2 placeholder:text-gray-800 dark:text-white dark:placeholder:text-gray-200 dark:bg-gray-900   rounded-md outline-none  h-36 focus:ring-4  ${
                   errors.message
                     ? "border-red-600 focus:border-red-600 ring-red-100 dark:ring-0"
@@ -187,7 +186,7 @@ export default function Contact({ settings }) {
                     d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
                 </svg>
               ) : (
-                "Send Message"
+                "Wyślij wiadomość"
               )}
             </button>
           </form>
