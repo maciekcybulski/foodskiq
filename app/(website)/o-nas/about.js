@@ -39,40 +39,41 @@ export default function About({ authors, settings }) {
         👉 Specjalizuję się w prowadzeniu konsultacji i szkoleń z obszaru mikrobiologii żywności, diagnostyki mikrobiologicznej żywności, prawa żywnościowego, systemu zarządzania w laboratorium mikrobiologicznym, zagrożeń mikrobiologicznych w produkcji, dystrybucji i przetwórstwie żywności. 
 <br/><br/>📍 Przez 16 lat skutecznie zarządzałam laboratorium akredytowanym w celu dostarczenia wyników i rozwiązań spełniających branżowe standardy, optymalizując procesy i systematycznie wdrażając nowe metody badawcze.
         </p>
-        <p>
-        Moje 𝐤𝐥𝐮𝐜𝐳𝐨𝐰𝐞 𝐤𝐨𝐦𝐩𝐞𝐭𝐞𝐧𝐜𝐣𝐞 ☟
-▫ 20-letnie doświadczenie w zarządzaniu projektami laboratoryjnymi: planowanie, realizacja, monitorowanie, raportowanie
-▫ Wykształcenie wyższe techniczne - mgr inż. technologii żywności
-▫ Specjalistyczna wiedza z zakresu mikrobiologii
-▫ Bardzo dobra znajomość mikrobiologicznych metod analitycznych
-▫ Budowanie trwałych relacji z klientem biznesowym
-▫ Umiejętność przekazywania wiedzy w sposób dostosowany do potrzeb i możliwości klienta 
-▫ Prowadzenie ciekawych i angażujących szkoleń
-▫ Znajomość zasad Dobrej Praktyki Laboratoryjnej (GLP)
-▫ Znajomość normy PN-EN ISO/IEC 17025
-▫ Umiejętność obsługi specjalistycznych urządzeń laboratoryjnych i systemów do wprowadzania danych
-▫ Skuteczne zarządzanie zespołem projektowym
-▫ Wysokie umiejętności interpersonalne
-▫ Doskonałe umiejętności organizacyjne i przywódcze
-▫ Samodzielność połączona z proaktywnością
-▫ Myślenie analityczne i strategiczne
-▫ Tworzenie raportów, zestawień i analiz
-▫ Doskonała znajomość MS Office (Excel)
+        <ul>
+  <li>20-letnie doświadczenie w zarządzaniu projektami laboratoryjnymi: planowanie, realizacja, monitorowanie, raportowanie</li>
+  <li>Wykształcenie wyższe techniczne - mgr inż. technologii żywności</li>
+  <li>Specjalistyczna wiedza z zakresu mikrobiologii</li>
+  <li>Bardzo dobra znajomość mikrobiologicznych metod analitycznych</li>
+  <li>Budowanie trwałych relacji z klientem biznesowym</li>
+  <li>Umiejętność przekazywania wiedzy w sposób dostosowany do potrzeb i możliwości klienta</li>
+  <li>Prowadzenie ciekawych i angażujących szkoleń</li>
+  <li>Znajomość zasad Dobrej Praktyki Laboratoryjnej (GLP)</li>
+  <li>Znajomość normy PN-EN ISO/IEC 17025</li>
+  <li>Umiejętność obsługi specjalistycznych urządzeń laboratoryjnych i systemów do wprowadzania danych</li>
+  <li>Skuteczne zarządzanie zespołem projektowym</li>
+  <li>Wysokie umiejętności interpersonalne</li>
+  <li>Doskonałe umiejętności organizacyjne i przywódcze</li>
+  <li>Samodzielność połączona z proaktywnością</li>
+  <li>Myślenie analityczne i strategiczne</li>
+  <li>Tworzenie raportów, zestawień i analiz</li>
+  <li>Doskonała znajomość MS Office (Excel)</li>
+</ul>
 
-𝐊𝐨𝐦𝐩𝐞𝐭𝐞𝐧𝐜𝐣𝐞 𝐦𝐚𝐧𝐚𝐠𝐞𝐫𝐬𝐤𝐢𝐞, które wesprą niejeden zespół i projekt 💯:
-➟ Określanie celów i dopasowywanie do nich zadań
-➟ Zapewnienie wysokiego poziomu zarządzania projektami i budżetem
-➟ Zarządzanie zespołem, ocena efektów pracy
-➟ Delegowanie zadań i motywowanie, coaching
-➟ Koordynowanie harmonogramów projektów, udzielanie informacji zwrotnych
-➟ Prowadzenie spotkań i szkoleń
-➟ Umiejętność perswazji w zakresie zarządzania i wywierania wpływu na wszystkich szczeblach firmy
-➟ Zarządzanie zmianami i optymalizacja procesów
-➟ Umiejętność myślenia procesowego
-➟ Wysoka etyka pracy
-        </p>
+<p>𝐊𝐨𝐦𝐩𝐞𝐭𝐞𝐧𝐜𝐣𝐞 𝐦𝐚𝐧𝐚𝐠𝐞𝐫𝐬𝐤𝐢𝐞, które wesprą niejeden zespół i projekt 💯:</p>
+<ul>
+  <li>Określanie celów i dopasowywanie do nich zadań</li>
+  <li>Zapewnienie wysokiego poziomu zarządzania projektami i budżetem</li>
+  <li>Zarządzanie zespołem, ocena efektów pracy</li>
+  <li>Delegowanie zadań i motywowanie, coaching</li>
+  <li>Koordynowanie harmonogramów projektów, udzielanie informacji zwrotnych</li>
+  <li>Prowadzenie spotkań i szkoleń</li>
+  <li>Umiejętność perswazji w zakresie zarządzania i wywierania wpływu na wszystkich szczeblach firmy</li>
+  <li>Zarządzanie zmianami i optymalizacja procesów</li>
+  <li>Umiejętność myślenia procesowego</li>
+  <li>Wysoka etyka pracy</li>
+</ul>
         <p>
-          <Link href="/contact">Get in touch</Link>
+          <Link href="/contact">Porozmawiajmy</Link>
         </p>
       </div>
     </Container>

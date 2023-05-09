@@ -1,13 +1,24 @@
 import Link from "next/link";
 import Container from "@/components/container";
 import PostList from "@/components/postlist";
+import Hero from "@/components/komponenty/hero";
+import Testimonials from "@/components/komponenty/testimonials"
+import Feature1 from "@/components/komponenty/feature1"
+import Feature2 from "@/components/komponenty/feature2"
 
 export default function Post({ posts }) {
   return (
     <>
+    <Hero />
+    <Testimonials />
+    <Feature1 />
+    <Feature2 />
       {posts && (
         <Container>
+          
+          <h2 className="my-12 text-center text-4xl "> Przeczytaj nasze artykuły</h2>
           <div className="grid gap-10 md:grid-cols-2 lg:gap-10 ">
+          
             {posts.slice(0, 2).map(post => (
               <PostList
                 key={post._id}
