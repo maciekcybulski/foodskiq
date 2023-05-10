@@ -39,7 +39,7 @@ export default function About({ authors, settings }) {
         👉 Specjalizuję się w prowadzeniu konsultacji i szkoleń z obszaru mikrobiologii żywności, diagnostyki mikrobiologicznej żywności, prawa żywnościowego, systemu zarządzania w laboratorium mikrobiologicznym, zagrożeń mikrobiologicznych w produkcji, dystrybucji i przetwórstwie żywności. 
 <br/><br/>📍 Przez 16 lat skutecznie zarządzałam laboratorium akredytowanym w celu dostarczenia wyników i rozwiązań spełniających branżowe standardy, optymalizując procesy i systematycznie wdrażając nowe metody badawcze.
         </p>
-        <ul>
+        <ul className="list-none">
   <li>20-letnie doświadczenie w zarządzaniu projektami laboratoryjnymi: planowanie, realizacja, monitorowanie, raportowanie</li>
   <li>Wykształcenie wyższe techniczne - mgr inż. technologii żywności</li>
   <li>Specjalistyczna wiedza z zakresu mikrobiologii</li>
@@ -60,7 +60,7 @@ export default function About({ authors, settings }) {
 </ul>
 
 <p>𝐊𝐨𝐦𝐩𝐞𝐭𝐞𝐧𝐜𝐣𝐞 𝐦𝐚𝐧𝐚𝐠𝐞𝐫𝐬𝐤𝐢𝐞, które wesprą niejeden zespół i projekt 💯:</p>
-<ul>
+<ul className="list-none">
   <li>Określanie celów i dopasowywanie do nich zadań</li>
   <li>Zapewnienie wysokiego poziomu zarządzania projektami i budżetem</li>
   <li>Zarządzanie zespołem, ocena efektów pracy</li>
