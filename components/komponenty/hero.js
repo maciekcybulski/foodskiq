@@ -2,9 +2,9 @@ import React from 'react'
 
 const hero = () => {
   return (
-    <div className="relative isolate px-6 lg:px-8 -z-20">
+    <div className="relative isolate px-6 lg:px-8  -z-20">
 <div
-  className="absolute inset-x-0 -top-40 -z-30 transform-gpu overflow-hidden blur-3xl sm:-top-80"
+  className="absolute inset-x-0 h-screen -top-40 -z-30 transform-gpu overflow-hidden blur-3xl sm:-top-80"
   aria-hidden="true"
 >
   <div

@@ -1,23 +1,23 @@
 import React from 'react'
-import {ArrowPathIcon, CloudArrowUpIcon, LockClosedIcon, ServerIcon } from '@heroicons/react/20/solid'
+import { ScissorsIcon, WrenchIcon, HandThumbUpIcon, UserPlusIcon,BoltIcon, CheckCircleIcon, FaceSmileIcon } from '@heroicons/react/20/solid'
 const features = [
   {
   name: 'Szkolenia dostosowane do potrzeb',
   description:
   'Oferujemy szkolenia "szyte na miarę", dopasowane do potrzeb i oczekiwań klienta, co pozwala na skoncentrowanie się na konkretnych zagadnieniach związanych z danym przedsiębiorstwem.',
-  icon: ArrowPathIcon,
+  icon: ScissorsIcon,
   },
   {
   name: 'Teoria i praktyka',
   description:
   'Nasze szkolenia łączą wiedzę teoretyczną z praktycznymi aspektami wykorzystania nabytych umiejętności w codziennej pracy, dzięki czemu uczestnicy mogą natychmiast zastosować nową wiedzę w swoim zakładzie.',
-  icon: ArrowPathIcon,
+  icon: WrenchIcon,
   },
   {
   name: 'Wsparcie po zakończeniu szkolenia',
   description:
   'Po zakończeniu szkolenia uczestnicy otrzymują wsparcie w formie konsultacji, aby móc dalej rozwijać swoje umiejętności i odpowiednio wdrażać nabyte kompetencje w praktyce.',
-  icon: ArrowPathIcon,
+  icon: HandThumbUpIcon ,
   },
   ]
 
@@ -27,25 +27,25 @@ const features = [
     name: 'Rozwój kompetencji pracowników',
     description:
     'Szkolenia pomagają w rozwijaniu kompetencji pracowników, co przekłada się na lepsze wykorzystanie ich potencjału i wzrost efektywności przedsiębiorstwa.',
-    icon: ArrowPathIcon,
+    icon: UserPlusIcon,
     },
     {
     name: 'Innowacyjność i konkurencyjność',
     description:
     'Dzięki szkoleniom, pracownicy zdobywają wiedzę na temat nowoczesnych technologii i rozwiązań, co pozwala firmie na utrzymanie konkurencyjności na rynku.',
-    icon: ArrowPathIcon,
+    icon: BoltIcon,
     },
     {
     name: 'Zmniejszenie ryzyka błędów',
     description:
     'Szkolenia zwiększają świadomość pracowników na temat istotnych zagadnień związanych z jakością i bezpieczeństwem żywności, co prowadzi do zmniejszenia ryzyka błędów i niezgodności.',
-    icon: ArrowPathIcon,
+    icon: CheckCircleIcon,
     },
     {
     name: 'Wzmocnienie wizerunku firmy',
     description:
     'Inwestycja w rozwój pracowników i dbałość o jakość produktów wpływa na wzmocnienie wizerunku firmy, co przyczynia się do zwiększenia zaufania klientów i partnerów biznesowych.',
-    icon: ArrowPathIcon,
+    icon: FaceSmileIcon,
     },
     ]
 const audyty = () => {

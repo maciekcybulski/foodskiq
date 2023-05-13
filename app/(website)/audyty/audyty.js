@@ -1,25 +1,25 @@
 import React from 'react'
 import Container from "@/components/container";
-import {ArrowPathIcon, CloudArrowUpIcon, LockClosedIcon, ServerIcon } from '@heroicons/react/20/solid'
+import {EyeDropperIcon, HomeIcon,AdjustmentsHorizontalIcon, LockClosedIcon, BookOpenIcon, CurrencyDollarIcon, ChartBarIcon} from '@heroicons/react/20/solid'
 
 const features = [
   {
     name: 'Audyty wewnętrzne',
     description:
       'Przeprowadzamy audyty wewnętrzne laboratoriów mikrobiologicznych, aby identyfikować obszary do poprawy i zwiększyć jakość badań.',
-    icon: CloudArrowUpIcon,
+    icon: HomeIcon,
   },
   {
     name: 'Audyty zakładów produkcyjnych',
     description:
       'Dopilnujemy, aby zapewniono zgodność z wymogami przepisów i standardów jakości.',
-    icon: LockClosedIcon,
+    icon: AdjustmentsHorizontalIcon,
   },
   {
     name: 'Optymalizacja procesu badawczego',
     description:
       'Audyty służą również optymalizacji procesu badawczego – więcej i drożej nie zawsze znaczy lepiej! Korzyści płynące z audytu to nie tylko poprawa jakości badań, ale także realne korzyści finansowe!',
-    icon: ServerIcon,
+    icon: EyeDropperIcon,
   },
 ]
 
@@ -29,25 +29,25 @@ const featurety = [
     name: 'Poprawa jakości i bezpieczeństwa produktów',
     description:
       'Audyty mikrobiologiczne pomagają producentom żywności w identyfikacji obszarów do poprawy, co prowadzi do wyższej jakości i bezpieczeństwa produktów.',
-    icon: ArrowPathIcon,
+    icon: LockClosedIcon,
   },
   {
     name: 'Zgodność z przepisami i standardami',
     description:
       'Przeprowadzanie audytów mikrobiologicznych zapewnia zgodność z obowiązującymi przepisami oraz standardami branżowymi, co jest kluczowe dla utrzymania renomy firmy.',
-    icon: ArrowPathIcon,
+    icon: BookOpenIcon,
   },
   {
     name: 'Optymalizacja kosztów',
     description:
       'Audyty mikrobiologiczne pozwalają na optymalizację procesów produkcyjnych oraz wykrycie ewentualnych nieefektywności, co prowadzi do redukcji kosztów operacyjnych.',
-    icon: ArrowPathIcon,
+    icon: CurrencyDollarIcon,
   },
   {
     name: 'Wzrost zaufania klientów',
     description:
       'Regularne audyty mikrobiologiczne zwiększają zaufanie klientów do Państwa firmy, co może skutkować wzrostem sprzedaży i długotrwałą współpracą z partnerami biznesowymi.',
-    icon: ArrowPathIcon,
+    icon: ChartBarIcon,
   },
 ]
 

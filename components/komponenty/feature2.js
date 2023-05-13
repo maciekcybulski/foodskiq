@@ -1,29 +1,29 @@
-import { ArrowPathIcon, CloudArrowUpIcon, FingerPrintIcon, LockClosedIcon } from '@heroicons/react/24/outline'
+import {  AcademicCapIcon, ChartBarIcon, ClipboardDocumentCheckIcon, FaceSmileIcon } from '@heroicons/react/24/outline'
 
 const features = [
     {
       name: 'Szkolenia teoretyczne i praktyczne',
       description:
         'Oferujemy profesjonalne szkolenia z zakresu zarządzania jakością i bezpieczeństwem żywności, dostosowane do potrzeb Twojej firmy.',
-      icon: ArrowPathIcon,
+      icon: AcademicCapIcon,
     },
     {
       name: 'Audyty laboratoriów mikrobiologicznych',
       description:
         'Przeprowadzamy audyty wewnętrzne i zewnętrzne laboratoriów mikrobiologicznych, aby zapewnić najwyższą jakość i zgodność z wymogami.',
-      icon: ArrowPathIcon,
+      icon: ChartBarIcon,
     },
     {
       name: 'Konsultacje kompleksowe',
       description:
         'Zapewniamy wsparcie w zakresie zarządzania jakością i bezpieczeństwem żywności, pomagając w identyfikacji obszarów do poprawy i wdrożeniu nowych strategii.',
-      icon: ArrowPathIcon,
+      icon: ClipboardDocumentCheckIcon,
     },
     {
       name: 'Najlepsze praktyki',
       description:
         'Stosujemy najnowsze metody i praktyki w zarządzaniu jakością i bezpieczeństwem żywności, aby zapewnić skuteczność naszych usług.',
-      icon: ArrowPathIcon,
+      icon: FaceSmileIcon,
     },
   ]
 

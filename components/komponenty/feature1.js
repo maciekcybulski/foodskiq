@@ -1,21 +1,21 @@
-import { CloudArrowUpIcon, LockClosedIcon, ServerIcon } from '@heroicons/react/20/solid'
+import {  AcademicCapIcon, ChartPieIcon, ChatBubbleLeftRightIcon} from '@heroicons/react/20/solid'
 
 const features = [
   {
     name: 'Szkolenia',
     description:
       'Szeroki obszar zarządzania jakością i bezpieczeństwem żywności, umożliwiający budowanie i ochronę wizerunku marki oraz zapewnienie zdrowia konsumentów.',
-    icon: CloudArrowUpIcon,
+    icon: AcademicCapIcon,
   },
   {
     name: 'Audyty',
     description: 'Po audycie klient otrzymuje raport wraz z rekomendacjami i propozycją działań naprawczych, jak również pomoc w ich wprowadzeniu. ',
-    icon: LockClosedIcon,
+    icon: ChartPieIcon,
   },
   {
     name: 'Konsultacje',
     description: 'Kompleksowe konsultacje począwszy od oceny ryzyka po zarządzanie kryzysowe. ',
-    icon: ServerIcon,
+    icon: ChatBubbleLeftRightIcon,
   },
 ]
 

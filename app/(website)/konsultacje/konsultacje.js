@@ -1,23 +1,23 @@
 import React from 'react'
-import {ArrowPathIcon, CloudArrowUpIcon, LockClosedIcon, ServerIcon } from '@heroicons/react/20/solid'
+import {MagnifyingGlassIcon,FireIcon, PencilSquareIcon, ScaleIcon, PresentationChartBarIcon, BellAlertIcon, BuildingLibraryIcon} from '@heroicons/react/20/solid'
 const features = [
   {
   name: 'Ocena ryzyka',
   description:
   'Przeprowadzamy analizę ryzyka związanego z procesami produkcyjnymi oraz przechowywaniem żywności, aby zidentyfikować potencjalne zagrożenia dla bezpieczeństwa i jakości produktów.',
-  icon: ArrowPathIcon,
+  icon: MagnifyingGlassIcon,
   },
   {
   name: 'Zarządzanie kryzysowe',
   description:
   'Pomagamy w rozwiązaniu sytuacji kryzysowych i problemów związanych z mikrobiologicznym zanieczyszczeniem żywności na etapie produkcji i przechowywania.',
-  icon: ArrowPathIcon,
+  icon: FireIcon,
   },
   {
   name: 'Planowanie badań mikrobiologicznych',
   description:
   'W oparciu o analizę ryzyka ustalam plany i zakresy badań mikrobiologicznych produktów gotowych i surowców (HACCP), badania przechowalnicze oraz środowiska produkcyjnego.',
-  icon: ArrowPathIcon,
+  icon: PencilSquareIcon,
   },
   ]
 
@@ -27,25 +27,25 @@ const features = [
     name: 'Wsparcie w podejmowaniu decyzji',
     description:
     'Konsultacje pomagają w podejmowaniu strategicznych decyzji, dzięki profesjonalnemu doradztwu opartemu na doświadczeniu i wiedzy eksperckiej.',
-    icon: ArrowPathIcon,
+    icon: ScaleIcon,
     },
     {
     name: 'Poprawa efektywności procesów',
     description:
     'Dzięki konsultacjom, pracownicy otrzymują wskazówki dotyczące usprawnienia procesów produkcyjnych, co prowadzi do zwiększenia efektywności przedsiębiorstwa.',
-    icon: ArrowPathIcon,
+    icon: PresentationChartBarIcon,
     },
     {
     name: 'Zarządzanie sytuacjami kryzysowymi',
     description:
     'Konsultacje pomagają w rozpoznawaniu i rozwiązywaniu sytuacji kryzysowych, co przekłada się na zminimalizowanie strat i utrzymanie ciągłości działania firmy.',
-    icon: ArrowPathIcon,
+    icon: BellAlertIcon,
     },
     {
     name: 'Optymalizacja zgodności z przepisami',
     description:
     'Doradztwo w zakresie przepisów prawa, wytycznych i norm pozwala na utrzymanie zgodności z obowiązującymi wymogami, co wpływa na wizerunek firmy i jej reputację.',
-    icon: ArrowPathIcon,
+    icon: BuildingLibraryIcon,
     },
     ]
 const audyty = () => {
