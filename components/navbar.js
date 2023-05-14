@@ -37,7 +37,7 @@ export default function Navbar(props) {
     },
     {
       label: "Kontakt",
-      href: "/contact",
+      href: "/kontakt",
     }
   ];
 
