@@ -2,7 +2,7 @@ import React from 'react'
 
 const hero = () => {
   return (
-    <div className="relative isolate px-6 lg:px-8  -z-20">
+    <div className="relative isolate px-6 lg:px-8  ">
 <div
   className="absolute inset-x-0 h-screen  -top-40 -z-30 transform-gpu overflow-hidden blur-3xl sm:-top-80"
   aria-hidden="true"
@@ -15,7 +15,7 @@ const hero = () => {
     }}
   />
 </div>
-<div className="mx-auto max-w-2xl py-48 sm:py-48 lg:py-38">
+<div className="mx-auto max-w-2xl py-48 sm:py-48 z-20 lg:py-38">
   
   <div className="text-center">
     <h1 className="text-4xl font-bold  text-gray-900 sm:text-6xl">
@@ -24,7 +24,7 @@ const hero = () => {
     <p className="mt-6 text-lg leading-8 text-gray-600">
     Szkolenia teoretyczne i praktyczne, audyty laboratoriów mikrobiologicznych oraz kompleksowe konsultacje dotyczące zarządzania jakością i bezpieczeństwem żywności.
     </p>
-    <div className="mt-10 flex items-center justify-center gap-x-6">
+    <div className="mt-10 flex items-center justify-center  gap-x-6">
       <a
         href="/kontakt"
         className="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
