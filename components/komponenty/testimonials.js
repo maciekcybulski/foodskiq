@@ -22,14 +22,14 @@ export default function Example() {
               height={48}
             />
             <Image
-              className="col-span-2  object-cover lg:col-span-1"
-              src="/logo/logo3.svg"
+              className="col-span-2 max-h-12 w-full object-contain lg:col-span-1"
+              src="/logo/logo3.png"
               alt="Tuple"
               width={158}
               height={48}
             />
             <Image
-              className="col-span-2 object-cover sm:col-start-2 lg:col-span-1"
+              className="col-span-2 object-cover w-full sm:col-start-2 lg:col-span-1"
               src="/logo/logo4.svg"
               alt="SavvyCal"
               width={158}

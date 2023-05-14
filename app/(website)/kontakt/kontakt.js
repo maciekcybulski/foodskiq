@@ -1,5 +1,5 @@
 "use client";
-
+import Testimonials from "@/components/komponenty/testimonials";
 import Container from "@/components/container";
 import { useState } from "react";
 import { useForm } from "react-hook-form";
@@ -46,14 +46,14 @@ export default function Contact({ settings }) {
   return (
     <Container>
       <h1 className="mt-2 mb-3 text-3xl font-semibold tracking-tight text-center lg:leading-snug text-brand-primary lg:text-4xl dark:text-white">
-      Skontaktuj się z nami i odkryj, jak nasze usługi przyczynią się do sukcesu Twojej firmy!
+      Porozmawiajmy
       </h1>
-      <div className="">
+      <div className="mt-4">
         <p className="text-lg  mx-auto max-w-4xl">Jesteś zainteresowany poprawą jakości i bezpieczeństwa żywności w swoim przedsiębiorstwie? <br /><br />Chcesz zoptymalizować procesy produkcyjne, zminimalizować ryzyko związane z sytuacjami kryzysowymi oraz zadbać o zgodność z obowiązującymi przepisami? <br /><br />Jesteś we właściwym miejscu!
         <br /><br />
 </p>
       </div>
-
+<Testimonials />
       <div className="grid my-10 md:grid-cols-2">
         <div className="my-10">
           <h2 className="text-2xl font-semibold dark:text-white">
