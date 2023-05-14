@@ -1,4 +1,5 @@
 import React from 'react'
+import Image from 'next/image'
 import { ScissorsIcon, WrenchIcon, HandThumbUpIcon, UserPlusIcon,BoltIcon, CheckCircleIcon, FaceSmileIcon } from '@heroicons/react/20/solid'
 const features = [
   {
@@ -83,8 +84,8 @@ const audyty = () => {
               </dl>
             </div>
           </div>
-          <img
-            src="/szkolenie.jpg"
+          <Image
+            src="/szkoleniafood.jpg"
             alt="Product screenshot"
             className="w-[48rem] max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem] md:-ml-4 lg:-ml-0"
             width={2432}
@@ -155,10 +156,10 @@ const audyty = () => {
             </div>
           </div>
           <div className="relative mt-16 h-80 lg:mt-8">
-            <img
+            <Image
               className="absolute left-0 top-0 w-[57rem] max-w-none rounded-md bg-white/5 ring-1 ring-white/10"
               src="/kontakt.jpg"
-              alt="App screenshot"
+              alt="Szkolenia bezpieczeństwo żywnośći"
               width={1824}
               height={1080}
             />

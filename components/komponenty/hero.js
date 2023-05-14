@@ -4,7 +4,7 @@ const hero = () => {
   return (
     <div className="relative isolate px-6 lg:px-8  -z-20">
 <div
-  className="absolute inset-x-0 h-screen -top-40 -z-30 transform-gpu overflow-hidden blur-3xl sm:-top-80"
+  className="absolute inset-x-0 h-screen  -top-40 -z-30 transform-gpu overflow-hidden blur-3xl sm:-top-80"
   aria-hidden="true"
 >
   <div
@@ -15,7 +15,7 @@ const hero = () => {
     }}
   />
 </div>
-<div className="mx-auto max-w-2xl py-42 sm:py-48 lg:py-38">
+<div className="mx-auto max-w-2xl py-48 sm:py-48 lg:py-38">
   
   <div className="text-center">
     <h1 className="text-4xl font-bold  text-gray-900 sm:text-6xl">
