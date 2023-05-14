@@ -46,10 +46,12 @@ export default function Contact({ settings }) {
   return (
     <Container>
       <h1 className="mt-2 mb-3 text-3xl font-semibold tracking-tight text-center lg:leading-snug text-brand-primary lg:text-4xl dark:text-white">
-        Porozmawiajmy
+      Skontaktuj się z nami i odkryj, jak nasze usługi przyczynią się do sukcesu Twojej firmy!
       </h1>
-      <div className="text-center">
-        <p className="text-lg">Posiadamy 20 lat doświadczenia w branży.</p>
+      <div className="">
+        <p className="text-lg  mx-auto max-w-4xl">Jesteś zainteresowany poprawą jakości i bezpieczeństwa żywności w swoim przedsiębiorstwie? <br /><br />Chcesz zoptymalizować procesy produkcyjne, zminimalizować ryzyko związane z sytuacjami kryzysowymi oraz zadbać o zgodność z obowiązującymi przepisami? <br /><br />Jesteś we właściwym miejscu!
+        <br /><br />
+</p>
       </div>
 
       <div className="grid my-10 md:grid-cols-2">
@@ -58,14 +60,11 @@ export default function Contact({ settings }) {
             Kontakt z Food SQ 
           </h2>
           <p className="max-w-sm mt-5">
-            Zaprzraszamy do kontaktu z nami. Odpowiemy na wszystkie pytania.
+          Dzięki naszemu wieloletniemu doświadczeniu we współpracy z branżą spożywczą, w tym z laboratoriami, zakładami przemysłowymi oraz gastronomią, oferujemy kompleksowe konsultacje, które pomogą Ci osiągnąć zamierzone cele.
           </p>
 
           <div className="mt-5">
-            <div className="flex items-center mt-2 space-x-2 text-dark-600 dark:text-gray-400">
-              <MapPinIcon className="w-4 h-4" />
-              <span>1734 Sanfransico, CA 93063</span>
-            </div>
+            
             {settings?.email && (
               <div className="flex items-center mt-2 space-x-2 text-dark-600 dark:text-gray-400">
                 <EnvelopeIcon className="w-4 h-4" />
