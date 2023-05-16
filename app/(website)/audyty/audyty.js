@@ -5,7 +5,7 @@ const features = [
   {
     name: 'Audyty wewnętrzne',
     description:
-      'Przeprowadzamy audyty wewnętrzne laboratoriów mikrobiologicznych, aby identyfikować obszary do poprawy i zwiększyć jakość badań.',
+      'Zwiększamy wiarygodność wyników badań. Dzięki którym można podjąć słuszne działania i procesy naprawcze',
     icon: HomeIcon,
   },
   {
@@ -141,7 +141,7 @@ const audyty = () => {
               w swojej firmie?
             </h2>
             <p className="mt-6 text-lg leading-8 text-black ">
-            Budujemy trwałe relacje z klientem biznesowym i posiadamy znajomość zasad Dobrej Praktyki Laboratoryjnej (GLP).
+           Zapraszamy do kontaktu, chętnie odpowiemy na wszystkie pytania i nawiązemy współpracę.
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6 lg:justify-start">
               <a
@@ -150,9 +150,7 @@ const audyty = () => {
               >
                 Kontakt
               </a>
-              <a href="o-nas" className="text-sm font-semibold leading-6 text-black ">
-                Przeczytaj więcej<span aria-hidden="true">→</span>
-              </a>
+             
             </div>
           </div>
           <div className="relative mt-16 h-80 lg:mt-8">

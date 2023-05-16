@@ -53,7 +53,7 @@ export default function Contact({ settings }) {
         <br /><br />
 </p>
       </div>
-<Testimonials />
+
       <div className="grid my-10 md:grid-cols-2">
         <div className="my-10">
           <h2 className="text-2xl font-semibold dark:text-white">

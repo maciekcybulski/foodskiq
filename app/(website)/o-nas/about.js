@@ -7,13 +7,16 @@ export default function About({ authors, settings }) {
   return (
     <Container>
       <h1 className="mt-2 mb-3 text-3xl font-semibold tracking-tight text-center lg:leading-snug text-brand-primary lg:text-4xl dark:text-white">
-        Food SQ Katarzyna Cybulska
+        Katarzyna Cybulska - założycielka firmy Food SQ
       </h1>
       <div className="text-center">
-        <p className="text-lg"> Jestem charyzmatycznym mikrobiologiem praktykiem i audytorem systemu zarządzania laboratorium mikrobiologicznym wg normy PN-EN ISO/IEC 17025 <br/> Posiadam 20 letnim doświadczenie w realizacji projektów badawczych oraz szkoleniowych z zakresu mikrobiologii.</p>
+        <p className="text-lg w-1/3 mx-auto"> Jestem mikrobiologiem praktykiem i audytorem systemu zarządzania
+laboratorium mikrobiologicznym wg normy PN-EN ISO/IEC 17025
+Posiadam 20 letnim doświadczenie w realizacji projektów badawczych
+oraz szkoleniowych z zakresu mikrobiologii.</p>
       </div>
 
-      <div className="mx-auto w-1/2 gap-5 mt-6 mb-16 md:mt-16 md:mb-32 md:gap-16">
+      <div className="mx-auto w-1/4 gap-5 mt-6 mb-16 md:mt-16 md:mb-32 md:gap-16">
         {authors.slice(0, 3).map(author => {
           const imageProps = urlForImage(author?.image) || null;
           return (
@@ -25,8 +28,8 @@ export default function About({ authors, settings }) {
                   src={imageProps.src}
                   alt={author.name || " "}
                   fill
-                  sizes="(max-width: 320px) 100vw, 320px"
-                  className="object-cover mx-auto"
+                 
+                  className=" object-cover mx-auto"
                 />
               </Link>
             </div>
@@ -36,8 +39,9 @@ export default function About({ authors, settings }) {
 
       <div className="mx-auto prose text-center dark:prose-invert mt-14">
         <p>
-        👉 Specjalizuję się w prowadzeniu konsultacji i szkoleń z obszaru mikrobiologii żywności, diagnostyki mikrobiologicznej żywności, prawa żywnościowego, systemu zarządzania w laboratorium mikrobiologicznym, zagrożeń mikrobiologicznych w produkcji, dystrybucji i przetwórstwie żywności. 
-<br/><br/>📍 Przez 16 lat skutecznie zarządzałam laboratorium akredytowanym w celu dostarczenia wyników i rozwiązań spełniających branżowe standardy, optymalizując procesy i systematycznie wdrażając nowe metody badawcze.
+        Specjalizuję się w prowadzeniu konsultacji i szkoleń z obszaru mikrobiologii żywności, diagnostyki
+mikrobiologicznej żywności, prawa żywnościowego, systemu zarządzania w laboratorium
+mikrobiologicznym, zagrożeń mikrobiologicznych w produkcji, dystrybucji i przetwórstwie żywności.
         </p>
         <ul className="list-none">
   <li>20-letnie doświadczenie w zarządzaniu projektami laboratoryjnymi: planowanie, realizacja, monitorowanie, raportowanie</li>
