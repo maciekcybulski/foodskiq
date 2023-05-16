@@ -1,7 +1,6 @@
 import React from 'react'
-import Container from "@/components/container";
 import {EyeDropperIcon, HomeIcon,AdjustmentsHorizontalIcon, LockClosedIcon, BookOpenIcon, CurrencyDollarIcon, ChartBarIcon} from '@heroicons/react/20/solid'
-
+import Image from 'next/image'
 const features = [
   {
     name: 'Audyty wewnętrzne',
@@ -67,7 +66,7 @@ const audyty = () => {
         <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
           <div className="lg:pr-8 lg:pt-4">
             <div className="lg:max-w-lg">
-              <h2 className="text-base font-semibold leading-7 text-indigo-600">Profesojalne usługi audytów mikrobiologicznych</h2>
+              <h2 className="text-base font-semibold leading-7 text-indigo-600">Profesjonalne usługi audytów mikrobiologicznych</h2>
               <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Zidentyfikuj obszary do poprawy </p>
               <p className="mt-6 text-lg leading-8 text-gray-600">
               Zapewnienie wysokiej jakości i zgodności z przepisami oraz standardami branżowymi w laboratoriach badających żywność
@@ -85,7 +84,7 @@ const audyty = () => {
               </dl>
             </div>
           </div>
-          <img
+          <Image
             src="/audyt.jpg"
             alt="Product screenshot"
             className="w-[48rem] max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem] md:-ml-4 lg:-ml-0"
@@ -157,7 +156,7 @@ const audyty = () => {
             </div>
           </div>
           <div className="relative mt-16 h-80 lg:mt-8">
-            <img
+            <Image
               className="absolute left-0 top-0 w-[57rem] max-w-none rounded-md bg-white/5 ring-1 ring-white/10"
               src="/kontakt.jpg"
               alt="App screenshot"
