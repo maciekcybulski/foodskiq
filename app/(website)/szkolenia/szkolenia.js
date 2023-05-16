@@ -119,7 +119,38 @@ const audyty = () => {
         </div>
       </div>
     </div>
-    
+    <div className='text-center py-8'>
+      <h4 className='text-3xl py-5'> Popularne tematy szkoleń</h4>
+          <ul className="space-y-4 ">
+      <li>
+        Vademekum mikrobiologa – szkolenie praktyczne i teoretyczne, przygotowujące nowych pracowników w pełnym zakresie do pracy w laboratorium
+      </li>
+      <li>
+        Mikrobiologiczne badania żywności - interpretacja oraz wykorzystanie wyników badań mikrobiologicznych
+      </li> 
+      <li>
+        Parametry bezpieczeństwa żywności – Salmonella , Listeria monocytogenes. Nadzór i metody zapobiegania
+      </li>
+      <li>
+        Pobieranie próbek środowiskowych z obszaru produkcji i obrotu żywnością
+      </li>
+      <li>
+        PEM ( program monitorowania patogenów ) jako narzędzie do zmniejszania ryzyka związanego z bezpieczeństwem żywności
+      </li>
+      <li>
+        Parametry higieniczne nadzoru nad jakością żywności w poszczególnych branżach przemysłu spożywczego
+      </li>
+      <li>
+        Możliwości i ograniczenia Mikrobiologicznego Laboratorium Zakładowego
+      </li>
+      <li>
+        Metody zapobiegania zakażeniom krzyżowym z zakładzie produkcyjnym
+      </li>
+      <li>
+        Przygotowanie próbek do badań mikrobiologicznych
+      </li>
+    </ul>
+    </div>
     <div className="mx-auto max-w-7xl py-24 sm:px-6 sm:py-32 lg:px-8">
         <div className="relative isolate overflow-hidden bg-white-900 px-6 pt-16 shadow-2xl sm:rounded-3xl sm:px-16 md:pt-24 lg:flex lg:gap-x-20 lg:px-24 lg:pt-0">
           <svg
