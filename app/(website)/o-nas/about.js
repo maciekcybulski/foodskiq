@@ -44,38 +44,33 @@ mikrobiologicznej żywności, prawa żywnościowego, systemu zarządzania w labo
 mikrobiologicznym, zagrożeń mikrobiologicznych w produkcji, dystrybucji i przetwórstwie żywności.
         </p>
         <ul className="list-none">
-  <li>20-letnie doświadczenie w zarządzaniu projektami laboratoryjnymi: planowanie, realizacja, monitorowanie, raportowanie</li>
-  <li>Wykształcenie wyższe techniczne - mgr inż. technologii żywności</li>
-  <li>Specjalistyczna wiedza z zakresu mikrobiologii</li>
-  <li>Bardzo dobra znajomość mikrobiologicznych metod analitycznych</li>
-  <li>Budowanie trwałych relacji z klientem biznesowym</li>
-  <li>Umiejętność przekazywania wiedzy w sposób dostosowany do potrzeb i możliwości klienta</li>
-  <li>Prowadzenie ciekawych i angażujących szkoleń</li>
-  <li>Znajomość zasad Dobrej Praktyki Laboratoryjnej (GLP)</li>
-  <li>Znajomość normy PN-EN ISO/IEC 17025</li>
-  <li>Umiejętność obsługi specjalistycznych urządzeń laboratoryjnych i systemów do wprowadzania danych</li>
-  <li>Skuteczne zarządzanie zespołem projektowym</li>
-  <li>Wysokie umiejętności interpersonalne</li>
-  <li>Doskonałe umiejętności organizacyjne i przywódcze</li>
-  <li>Samodzielność połączona z proaktywnością</li>
-  <li>Myślenie analityczne i strategiczne</li>
-  <li>Tworzenie raportów, zestawień i analiz</li>
-  <li>Doskonała znajomość MS Office (Excel)</li>
+  <li>Specjalizuję się w prowadzeniu konsultacji i szkoleń z obszaru mikrobiologii żywności, diagnostyki
+mikrobiologicznej żywności, prawa żywnościowego w zakresie mikrobiologii, systemu zarządzania w
+laboratorium mikrobiologicznym, zagrożeń mikrobiologicznych w produkcji, dystrybucji i przetwórstwie
+żywności.</li>
+  <li>Przez 16 lat zarządzałam laboratorium akredytowanym w celu dostarczenia wyników i rozwiązań
+spełniających branżowe standardy, optymalizując procesy i systematycznie wdrażając nowe metody
+badawcze.</li>
+  <li>Mam 20-letnie doświadczenie w zarządzaniu projektami laboratoryjnymi: planowanie, realizacja,
+monitorowanie, raportowanie.</li>
+  <li>Od kilku lat prowadzę specjalistyczne szkolenia dla największych firm produkujących żywność</li>
+
+  <li>Posiadam wykształcenie wyższe techniczne - mgr inż. technologii żywności </li>
+  <li>Opracowałam autorskie szkolenia dotyczące bezpieczeństwa żywności w zakresie mikrobiologii w
+szczególności nadzoru nad patogenami w środowisku produkcyjnym i zmniejszaniu ryzyka zakażeń
+krzyżowych.</li>
+  <li>Przeprowadzałam audyty w firmach identyfikując istniejące zagrożenia i wdrażając działania naprawcze i
+zapobiegawcze.</li>
+  <li>Doradzałam przy opracowywaniu planów badania próbek w oparciu o analizę ryzyka w danej branży i
+specyfice produkcji.</li>
+<li>Posiadam wykształcenie wyższe techniczne - mgr inż. technologii żywności </li>
+  <li>Dobrze znam zasady Dobrej Praktyki Laboratoryjnej (GLP) oraz obowiązujące normy, w tym normy
+PN-EN ISO/IEC 17025</li>
+  <li>Byłam członkiem KT ds. Analizy Żywności i KT ds. Mleka i Przetworów Mlecznych w PKN</li>
+ 
 </ul>
 
-<p>𝐊𝐨𝐦𝐩𝐞𝐭𝐞𝐧𝐜𝐣𝐞 𝐦𝐚𝐧𝐚𝐠𝐞𝐫𝐬𝐤𝐢𝐞, które wesprą niejeden zespół i projekt 💯:</p>
-<ul className="list-none">
-  <li>Określanie celów i dopasowywanie do nich zadań</li>
-  <li>Zapewnienie wysokiego poziomu zarządzania projektami i budżetem</li>
-  <li>Zarządzanie zespołem, ocena efektów pracy</li>
-  <li>Delegowanie zadań i motywowanie, coaching</li>
-  <li>Koordynowanie harmonogramów projektów, udzielanie informacji zwrotnych</li>
-  <li>Prowadzenie spotkań i szkoleń</li>
-  <li>Umiejętność perswazji w zakresie zarządzania i wywierania wpływu na wszystkich szczeblach firmy</li>
-  <li>Zarządzanie zmianami i optymalizacja procesów</li>
-  <li>Umiejętność myślenia procesowego</li>
-  <li>Wysoka etyka pracy</li>
-</ul>
+
         <p>
           <Link href="/contact">Porozmawiajmy</Link>
         </p>
