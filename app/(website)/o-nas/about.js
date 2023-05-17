@@ -10,13 +10,13 @@ export default function About({ authors, settings }) {
         Katarzyna Cybulska - założycielka firmy Food SQ
       </h1>
       <div className="text-center">
-        <p className="text-lg w-1/3 mx-auto"> Jestem mikrobiologiem praktykiem i audytorem systemu zarządzania
-laboratorium mikrobiologicznym wg normy PN-EN ISO/IEC 17025
+        <p className="text-lg max-w-[40rem] mx-auto"> Jestem mikrobiologiem praktykiem i audytorem systemu zarządzania
+laboratorium mikrobiologicznym wg normy PN-EN ISO/IEC 17025. <br/><br/>
 Posiadam 20 letnim doświadczenie w realizacji projektów badawczych
 oraz szkoleniowych z zakresu mikrobiologii.</p>
       </div>
 
-      <div className="mx-auto w-1/4 gap-5 mt-6 mb-16 md:mt-16 md:mb-32 md:gap-16">
+      <div className="mx-auto max-w-[30rem] gap-5 mt-6 mb-16 md:mt-16 md:mb-32 md:gap-16">
         {authors.slice(0, 3).map(author => {
           const imageProps = urlForImage(author?.image) || null;
           return (
