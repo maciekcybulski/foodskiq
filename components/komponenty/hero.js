@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 const hero = () => {
   return (
     <div className="relative isolate px-6 lg:px-8  ">
@@ -15,8 +16,8 @@ const hero = () => {
     }}
   />
 </div>
+
 <div className="mx-auto max-w-2xl py-48 sm:py-48 z-20 lg:py-38">
-  
   <div className="text-center">
     <h1 className="text-4xl font-bold  text-gray-900 sm:text-6xl">
       Zarządzanie jakością i bezpieczeństwem żywności
@@ -31,6 +32,7 @@ const hero = () => {
       >
         Porozmawiajmy
       </a>
+     
       <a href="/o-nas" className="text-sm font-semibold leading-6 text-gray-900">
         Dowiedz się więcej <span aria-hidden="true">→</span>
       </a>
