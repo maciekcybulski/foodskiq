@@ -141,7 +141,7 @@ const audyty = () => {
               w swojej firmie?
             </h2>
             <p className="mt-6 text-lg leading-8 text-black ">
-           Zapraszamy do kontaktu, chętnie odpowiemy na wszystkie pytania i nawiązemy współpracę.
+           Zapraszamy do kontaktu, chętnie odpowiemy na wszystkie pytania i nawiążemy współpracę.
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6 lg:justify-start">
               <a
@@ -155,8 +155,8 @@ const audyty = () => {
           </div>
           <div className="relative mt-16 h-80 lg:mt-8">
             <Image
-              className="absolute left-0 top-0 w-[57rem] max-w-none rounded-md bg-white/5 ring-1 ring-white/10"
-              src="/kontakt.jpg"
+              className="absolute object-cover left-0 top-0 w-[57rem] max-w-none rounded-md bg-white/5 ring-1 ring-white/10"
+              src="/happy.jpg"
               alt="App screenshot"
               width={1824}
               height={1080}

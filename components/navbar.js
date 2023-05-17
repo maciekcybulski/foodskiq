@@ -46,7 +46,6 @@ export default function Navbar(props) {
   return (
     <Container>
       <nav>
-      
         <Disclosure>
           {({ open }) => (
             <>

@@ -17,7 +17,7 @@ const hero = () => {
   />
 </div>
 
-<div className="mx-auto max-w-2xl py-48 sm:py-48 z-20 lg:py-38">
+<div className="mx-auto max-w-2xl py-40  z-20 lg:py-48">
   <div className="text-center">
     <h1 className="text-4xl font-bold  text-gray-900 sm:text-6xl">
       Zarządzanie jakością i bezpieczeństwem żywności
