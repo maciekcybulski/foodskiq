@@ -38,23 +38,16 @@ oraz szkoleniowych z zakresu mikrobiologii.</p>
       </div>
 
       <div className="mx-auto prose text-center dark:prose-invert mt-14">
-        <p>
-        Specjalizuję się w prowadzeniu konsultacji i szkoleń z obszaru mikrobiologii żywności, diagnostyki
-mikrobiologicznej żywności, prawa żywnościowego, systemu zarządzania w laboratorium
-mikrobiologicznym, zagrożeń mikrobiologicznych w produkcji, dystrybucji i przetwórstwie żywności.
-        </p>
+      
         <ul className="list-none">
-  <li>Specjalizuję się w prowadzeniu konsultacji i szkoleń z obszaru mikrobiologii żywności, diagnostyki
-mikrobiologicznej żywności, prawa żywnościowego w zakresie mikrobiologii, systemu zarządzania w
-laboratorium mikrobiologicznym, zagrożeń mikrobiologicznych w produkcji, dystrybucji i przetwórstwie
-żywności.</li>
+  <li>Specjalizuję się w prowadzeniu konsultacji i szkoleń z obszaru zapewnienia bezpieczeństwa i jakości mikrobiologicznej żywności, diagnostyki mikrobiologicznej żywności, prawa żywnościowego, systemu zarządzania w laboratorium mikrobiologicznym, zagrożeń mikrobiologicznych w produkcji, dystrybucji i przetwórstwie żywności.</li>
   <li>Przez 16 lat zarządzałam laboratorium akredytowanym w celu dostarczenia wyników i rozwiązań
 spełniających branżowe standardy, optymalizując procesy i systematycznie wdrażając nowe metody
 badawcze.</li>
   <li>Mam 20-letnie doświadczenie w zarządzaniu projektami laboratoryjnymi: planowanie, realizacja,
 monitorowanie, raportowanie.</li>
   <li>Od kilku lat prowadzę specjalistyczne szkolenia dla największych firm produkujących żywność</li>
-
+ <li>Pełnię funkcję Kierownika Pracowni Badania Jakości Mikrobiologicznej w Zakładzie Mikrobiologii, Instytutu Biotechnologii Przemysłu Rolno-Spożywczego – Państwowy Instytut Badawczy, co pozwala mi na dalszy rozwój oraz uczestniczenie w wielu ciekawych projektach.</li>
   <li>Posiadam wykształcenie wyższe techniczne - mgr inż. technologii żywności </li>
   <li>Opracowałam autorskie szkolenia dotyczące bezpieczeństwa żywności w zakresie mikrobiologii w
 szczególności nadzoru nad patogenami w środowisku produkcyjnym i zmniejszaniu ryzyka zakażeń
