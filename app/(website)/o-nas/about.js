@@ -12,7 +12,7 @@ export default function About({ authors, settings }) {
       <div className="text-center">
         <p className="text-lg max-w-[40rem] mx-auto"> Jestem mikrobiologiem praktykiem i audytorem systemu zarządzania
 laboratorium mikrobiologicznym wg normy PN-EN ISO/IEC 17025. <br/><br/>
-Posiadam 20 letnim doświadczenie w realizacji projektów badawczych
+Posiadam 20 letnie doświadczenie w realizacji projektów badawczych
 oraz szkoleniowych z zakresu mikrobiologii.</p>
       </div>
 
