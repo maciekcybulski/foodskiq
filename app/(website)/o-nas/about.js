@@ -65,7 +65,7 @@ PN-EN ISO/IEC 17025</li>
 
 
         <p>
-          <Link href="/contact">Porozmawiajmy</Link>
+          <Link href="/kontakt">Porozmawiajmy</Link>
         </p>
       </div>
     </Container>
